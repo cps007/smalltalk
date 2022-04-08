@@ -1,0 +1,2 @@
+# smalltalk
+For learning smalltalk
